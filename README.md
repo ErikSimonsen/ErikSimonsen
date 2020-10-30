@@ -10,13 +10,13 @@
   <a href="https://symfony.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" title="Symfony" width="40" height="40"/> 
   </a>
-   <a href="https://www.java.com" target="_blank">
+  <!-- <a href="https://www.java.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" title="Java" width="40" height="40"/> 
   </a>
   <a href="https://jakarta.ee/" target="_blank">
     <img src="https://icon-library.net//images/java-icon-png/java-icon-png-11.jpg" alt="javaee" title="Java Enterprise Edition" width="40" height="40"/></a>
-  </a>
-   <a href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank">
+  </a> -->
+  <a href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/></a>
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank">
