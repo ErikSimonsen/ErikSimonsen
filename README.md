@@ -1,20 +1,14 @@
 ### Hi there 👋
 
-
 <!-- in your body -->
-<i class="devicon-postgresql-plain colored"></i>
-
 <h3 align="center">Development Skills:</h3>
 <h5> Programming Languages & Frameworks </h5>
 <p>
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> 
   </a> 
-    <a href="https://symfony.com/" target="_blank"> 
+  <a href="https://symfony.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" title="Symfony" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
    <a href="https://www.java.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" title="Java" width="40" height="40"/> 
@@ -64,12 +58,23 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> 
   </a>
-   <a href="https://www.microsoft.com/de-de/windows" target="_blank"> 
+  <a href="https://www.microsoft.com/de-de/windows" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/> 
   </a>
 </p>
 
-
+<h5>I'm currently learning </h5>
+<p>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/>
+  </a>
+</p>
 <!--
 **ErikSimonsen/ErikSimonsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
