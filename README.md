@@ -68,11 +68,11 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank"> 
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
-  </a>
   <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
   </a>
 </p>
 <!--
