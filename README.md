@@ -75,6 +75,9 @@
   <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/>
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt=".net" title="Microsoft .NET" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
   </a>
