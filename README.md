@@ -84,6 +84,9 @@
   <a href="https://www.python.org/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-original.svg" alt="rust" title="Rust" width="40" height="40"/>
+  </a>
 </p>
 <!--
 **ErikSimonsen/ErikSimonsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
