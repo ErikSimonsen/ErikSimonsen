@@ -72,6 +72,9 @@
 
 <h5>Wanting to learn in the future </h5>
 <p>
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
+  </a>
   <a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/>
   </a>
