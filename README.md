@@ -55,12 +55,16 @@
   <a href="https://www.docker.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/> 
   </a> 
+  <a href="https://httpd.apache.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="httpd" title="Apache Webserver" width="40" height="40"/> 
+  </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/de-de/windows" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/> 
   </a>
+
 </p>
 
 <h5>I'm currently learning </h5>
@@ -70,7 +74,8 @@
   </a>
 </p>
 
-<h5>Wanting to learn in the future </h5>
+<h3 align="center">Wanting to learn/use in the future:</h3>
+<h5>Programming languages & frameworks </h5>
 <p>
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
@@ -86,6 +91,12 @@
   </a>
   <a href="https://www.rust-lang.org/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" title="Rust" width="40" height="40"/>
+  </a>
+</p>
+<h5>Infrastructure </h5>
+<p>
+     <a href="https://www.nginx.com/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" title="NGINX" width="40" height="40"/>
   </a>
 </p>
 <!--
