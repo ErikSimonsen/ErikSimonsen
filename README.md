@@ -89,8 +89,11 @@
 </p>
 <h5>Infrastructure </h5>
 <p>
-     <a href="https://www.nginx.com/" target="_blank"> 
+  <a href="https://www.nginx.com/" target="_blank"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" title="NGINX" width="40" height="40"/>
+  </a>
+    <a href="https://aws.amazon.com/de/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="Amazon Web Services" width="40" height="40"/>
   </a>
 </p>
 
