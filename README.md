@@ -83,9 +83,6 @@
   <a href="https://www.python.org/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> 
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" title="Rust" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
   </a>
@@ -96,6 +93,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" title="NGINX" width="40" height="40"/>
   </a>
 </p>
+
+
 <!--
 **ErikSimonsen/ErikSimonsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
