@@ -2,7 +2,7 @@
 
 <!-- in your body -->
 <h3 align="center">Development Skills:</h3>
-<h5> Programming Languages & Frameworks </h5>
+<h5> Programming Languages & Frameworks (continuously trying to improve and learn)</h5>
 <p>
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> 
