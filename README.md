@@ -61,10 +61,6 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> 
   </a>
-  <a href="https://www.microsoft.com/de-de/windows" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/> 
-  </a>
-
 </p>
 
 <h5>I'm currently learning </h5>
