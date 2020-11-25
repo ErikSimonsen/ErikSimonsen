@@ -73,9 +73,6 @@
 <h3 align="center">Wanting to learn/use in the future:</h3>
 <h5>Programming languages & frameworks </h5>
 <p>
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org/" target="_blank"> 
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
   </a>
