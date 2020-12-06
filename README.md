@@ -4,11 +4,11 @@
 <h3 align="center">Development Skills:</h3>
 <h5> Programming Languages & Frameworks (continuously trying to improve and learn)</h5>
 <p>
+    <a href="https://www.php.net/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> 
+  </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://jakarta.ee/" target="_blank">
-    <img src="https://icon-library.com/images/java-icon-png/java-icon-png-11.jpg" alt="javaee" title="Java Enterprise Edition" width="40" height="40"/></a>
   </a>
   <a href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/></a>
