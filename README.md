@@ -4,8 +4,11 @@
 <h3 align="center">Development Skills:</h3>
 <h5> Programming Languages & Frameworks (continuously trying to improve and learn)</h5>
 <p>
-    <a href="https://www.php.net/" target="_blank">
+  <a href="https://www.php.net/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
@@ -57,13 +60,6 @@
   </a>
   <a href="https://www.microsoft.com/de-de/windows" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/> 
-  </a>
-</p>
-
-<h5>I'm currently learning </h5>
-<p>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
 </p>
 
