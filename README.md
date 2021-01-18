@@ -8,25 +8,25 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/></a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/></a>
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40"/></a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40"/></a>
   </a>
 </p>
 <h5> Web UI </h5>
 <p>
    <a href="https://angular.io/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg" alt="angular" title="Angular" width="40" height="40"/></a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" title="Angular" width="40" height="40"/></a>
   </a>
   <a href="https://developer.mozilla.org/de/docs/Web/CSS" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/de/docs/Web/HTML" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="40" height="40"/>
   </a> 
 </p>
 <h5> Databases </h5>
@@ -35,7 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" title="MariaDB" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/> 
@@ -53,7 +53,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="httpd" title="Apache Webserver" width="40" height="40"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/de-de/windows" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/> 
@@ -63,7 +63,7 @@
 <h5>I'm currently learning </h5>
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
 </p>
 
@@ -71,13 +71,13 @@
 <h5>Programming languages & frameworks </h5>
 <p>
   <a href="https://www.python.org/" target="_blank"> 
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
     <a href="https://www.rust-lang.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" title="Rust" width="40" height="40"/>
