@@ -4,9 +4,6 @@
 <h3 align="center">Development Skills:</h3>
 <h5> Programming Languages & Frameworks (continuously trying to improve and learn)</h5>
 <p>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> 
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
