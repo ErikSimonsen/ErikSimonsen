@@ -2,7 +2,7 @@
 
 <!-- in your body -->
 <h3 align="center">Development Skills:</h3>
-<h5> Programming Languages & Frameworks (continuously trying to improve and learn)</h5>
+<h5> Programming Languages i know and worked with alot (continuously trying to improve and learn)</h5>
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
@@ -15,6 +15,9 @@
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40"/></a>
+  </a>
+    <a href="https://www.php.net" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/>
   </a>
 </p>
 <h5> Web UI </h5>
@@ -68,7 +71,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
 </p>
-<h3 align="center">Wanting to learn/use in the future:</h3>
+<h3 align="center">Wanting to learn/use in future projects at work:</h3>
 <h5>Programming languages & frameworks </h5>
 <p>
   <a href="https://www.python.org/" target="_blank"> 
