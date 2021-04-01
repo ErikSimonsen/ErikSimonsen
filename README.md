@@ -1,4 +1,4 @@
-### Hi there, my name is Erik and I am currently doing my CS master at the Ostfalia in Wolfenbüttel, Germany . 👋
+### Hi there, my name is Erik and I am currently doing my masters in CS at the Ostfalia in Wolfenbüttel, Germany . 👋
 
 <!-- in your body -->
 <h3 align="center">Development Skills:</h3>
