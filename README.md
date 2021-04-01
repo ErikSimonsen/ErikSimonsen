@@ -80,8 +80,11 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
-    <a href="" target="_blank"> 
+  <a href="" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/></a>
   </a>
 </p>
 
