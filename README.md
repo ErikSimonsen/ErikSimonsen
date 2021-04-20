@@ -53,7 +53,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/> 
   </a> 
   <a href="https://httpd.apache.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="httpd" title="Apache Webserver" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="httpd" title="Apache Webserver (httpd)" width="40" height="40"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/> 
