@@ -70,6 +70,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
+  </a>
 </p>
 <h5> Wanting to learn in the future</h5>
 <p>
