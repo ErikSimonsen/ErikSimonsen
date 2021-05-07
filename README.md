@@ -61,9 +61,6 @@
 </p>
 <h5> Currently learning </h5>
 <p>
-  <a href="https://www.python.org/" target="_blank"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="cplusplus" title="Python" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
