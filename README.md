@@ -61,7 +61,10 @@
 </p>
 <h5> Currently learning </h5>
 <p>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"
+  </a>
+  <a href="https://de.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank">
